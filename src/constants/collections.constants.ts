@@ -1,0 +1,9 @@
+export const AGENDAS_COLLECTION = "agendas";
+export const MEDICOS_COLLECTION = "medicos";
+export const ESPECIALIDADES_COLLECTION = "especialidades";
+export const CENTROS_MEDICOS_COLLECTION = "centros_medicos";
+export const TURNOS_COLLECTION = "turnos";
+export const PACIENTES_COLLECTION = "pacientes";
+export const USUARIOS_COLLECTION = "usuarios";
+export const OBRAS_SOCIALES_COLLECTION = "obras_sociales";
+export const FERIADOS_COLLECTION = "feriados";
